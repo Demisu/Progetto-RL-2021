@@ -2,5 +2,5 @@
 Progetto di Reti Logiche PoliMi 2022
 
 --------------------------------------------------------------------------------------
-Il progetto verrà caricato non prima di febbraio 2022 come da regolamento del progetto
+Il progetto verrà caricato non prima di fine 2022 come da regolamento
 --------------------------------------------------------------------------------------
